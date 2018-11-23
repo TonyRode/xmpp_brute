@@ -1,0 +1,6 @@
+- server responding accordingly to Hydra
+
+- parse arguments (challenge, successful response extracted from the pcap)
+
+
+- later : extract challenge and response straight from the pcap

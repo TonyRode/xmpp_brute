@@ -1,0 +1,1 @@
+hydra xmpp://127.0.0.1:65535 -l user -p password
