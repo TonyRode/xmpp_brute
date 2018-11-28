@@ -1,5 +1,7 @@
 - server responding accordingly to Hydra
 
+- string.decode('UTF-8')
+
 - parse arguments (challenge, successful response extracted from the pcap)
 
 
