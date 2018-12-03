@@ -2,12 +2,9 @@ import socket
 import threading
 
 
-
 with open("config") as f:
     content = f.readlines()
 content = [x.strip() for x in content]
-
-#print (content[0] + content[1] + content[2] + content[3])
 
 
 mysock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
