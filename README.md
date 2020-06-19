@@ -3,7 +3,7 @@ An XMPP bruteforce using Hydra and a custom localhost server
 
 Note : only works if you have a network capture of a successful authentication
 
-Perfs : 1400 passwords / min on a Kali VM with 2Go RAM and 2 CPUs
+Perfs : 1400 passwords / min on a Kali VM with 2GB RAM and 2 CPUs
 
 ## Usage
 * Read your wireshark (filter : xmpp) packets client <-> server, the successful authentication tcp stream
